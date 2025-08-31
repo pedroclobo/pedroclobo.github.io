@@ -1,0 +1,23 @@
+baseURL: https://pedroclobo.com
+languageCode: en-us
+title: Pedro Lobo
+theme: ["PaperMod"]
+
+markup:
+  highlight:
+    style: github-dark
+
+params:
+  ShowCodeCopyButtons: true
+  ShowReadingTime: true
+  ShowToc: true
+  homeInfoParams:
+    Title: Hi, I'm Pedro 👋
+    Content: I'm a Master's student in Computer Science and Engineering at Técnico Lisboa, with an interest in compilers and programming languages.
+  socialIcons:
+    - name: "Github"
+      url: "https://github.com/pedroclobo"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/pedroclobo"
+    - name: "email"
+      url: "mailto:pedrocerqueiralobo@gmail.com"
